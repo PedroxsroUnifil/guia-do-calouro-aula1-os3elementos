@@ -10,5 +10,8 @@ formato `- [Título](arquivo.md) — resumo curto`.
 ## Verbetes
 
 <!-- ADICIONE A LINHA DO SEU VERBETE LOGO ABAIXO DESTA LINHA -->
+
 - [Cantinas: onde comer em cada campus](cantinas.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
-[Quadra-sede: onde vamos praticar esportes](quadra-sede.md) — Esportes, apresentações e campeonatos.
+- [Quadra-sede: onde vamos praticar esportes](quadra-sede.md) — Esportes, apresentações e campeonatos.
+- [Estacionamento](estacionamento.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
+- [Sala de robótica](sala-robótica.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
